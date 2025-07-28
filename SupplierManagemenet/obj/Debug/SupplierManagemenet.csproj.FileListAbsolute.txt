@@ -1,0 +1,279 @@
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\SupplierManagemenet.dll.config
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\SupplierManagemenet.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\SupplierManagemenet.pdb
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\csc.exe
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\csc.exe.config
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\csc.rsp
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\csi.exe
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\csi.exe.config
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\csi.rsp
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.AppContext.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Console.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Net.Http.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\vbc.exe
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\vbc.exe.config
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\vbc.rsp
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\obj\Debug\SupplierManagemenet.csproj.AssemblyReference.cache
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\obj\Debug\SupplierManagemenet.csproj.CoreCompileInputs.cache
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\obj\Debug\Supplier.C7A23CAE.Up2Date
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\obj\Debug\SupplierManagemenet.dll
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\SupplierManagemenet\obj\Debug\SupplierManagemenet.pdb
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\SupplierManagemenet.dll.config
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\SupplierManagemenet.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\SupplierManagemenet.pdb
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csc.exe
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csc.exe.config
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csc.rsp
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csi.exe
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csi.exe.config
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csi.rsp
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.AppContext.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Console.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.IO.Compression.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Net.Http.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.ValueTuple.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\vbc.exe
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\vbc.exe.config
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\vbc.rsp
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\VBCSCompiler.exe
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\EntityFramework.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\EntityFramework.SqlServer.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Logging.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Options.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Buffers.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Collections.Immutable.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.ComponentModel.Annotations.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Memory.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Numerics.Vectors.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\EntityFramework.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\EntityFramework.SqlServer.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Logging.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Options.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Buffers.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Collections.Immutable.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Memory.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Numerics.Vectors.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.csproj.AssemblyReference.cache
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.csproj.CoreCompileInputs.cache
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\Supplier.C7A23CAE.Up2Date
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.dll
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.pdb
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.Migrations.InitialCreate.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.csproj.GenerateResource.cache
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\SupplierManagemenet.dll.config
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\SupplierManagemenet.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\SupplierManagemenet.pdb
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csc.exe
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csc.exe.config
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csc.rsp
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csi.exe
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csi.exe.config
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\csi.rsp
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.AppContext.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Console.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.IO.Compression.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Net.Http.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.ValueTuple.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\vbc.exe
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\vbc.exe.config
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\vbc.rsp
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\VBCSCompiler.exe
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\EntityFramework.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\EntityFramework.SqlServer.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Logging.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Options.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Buffers.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Collections.Immutable.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.ComponentModel.Annotations.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Memory.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Numerics.Vectors.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\EntityFramework.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\EntityFramework.SqlServer.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Logging.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Options.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Buffers.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Collections.Immutable.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Memory.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Numerics.Vectors.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.csproj.AssemblyReference.cache
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.Migrations.InitialCreate.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.csproj.GenerateResource.cache
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.csproj.CoreCompileInputs.cache
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\Supplier.C7A23CAE.Up2Date
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.dll
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\SupplierManagemenet\obj\Debug\SupplierManagemenet.pdb

@@ -1,0 +1,70 @@
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.SupplierLoginForm.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.SupplierOrderForm.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.SupplierRegistrationForm.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.PlantOrderForm.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.PlantStaffDashboard.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.PlantStaffLoginForm.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.WarehouseStaffLogin.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.PlantOrderConfirmForm.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.WarehouseOrderConfirmForm.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.WarehouseOrderForm.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.WarehouseStaffDashboard.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.PlantAddSupplierItems.resources
+C:\Users\Hasaranga\Desktop\st20288796SOC\SPC Solution\ClientApp\obj\Debug\ClientApp.WarehouseAddSupplierItems.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.PlantAddSupplierItems.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.PlantOrderConfirmForm.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.PlantOrderForm.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.PlantStaffDashboard.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.PlantStaffLoginForm.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.SupplierLoginForm.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.SupplierOrderForm.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.SupplierRegistrationForm.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.WarehouseAddSupplierItems.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.WarehouseOrderConfirmForm.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.WarehouseOrderForm.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.WarehouseStaffDashboard.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.WarehouseStaffLogin.resources
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\kavin\Downloads\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.SplashScreen.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.PlantAddSupplierItems.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.PlantOrderConfirmForm.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.PlantOrderForm.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.PlantStaffDashboard.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.PlantStaffLoginForm.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.SplashScreen.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.SupplierLoginForm.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.SupplierOrderForm.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.SupplierRegistrationForm.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.WarehouseOrderConfirmForm.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.WarehouseOrderForm.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.WarehouseStaffDashboard.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.WarehouseStaffLogin.resources
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\kavin\OneDrive\Desktop\Pharmacy-App-main\Pharmacy-App-main\ClientApp\obj\Debug\ClientApp.pdb

@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="InsertSupplierWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="supplierName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="supplierContact" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="supplierEmail" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="supplierPassword" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSupplierWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertSupplierWebResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LoginSupplierWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="email" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LoginSupplierWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LoginSupplierWebResult" type="tns:Supplier" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Supplier">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="SupplierId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="SupplierName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SupplierContact" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SupplierEmail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SupplierPassword" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetSPCSuppliersWeb">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetSPCSuppliersWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetSPCSuppliersWebResult" type="tns:ArrayOfSupplier" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfSupplier">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Supplier" nillable="true" type="tns:Supplier" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetNonSPCSuppliersWeb">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetNonSPCSuppliersWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetNonSPCSuppliersWebResult" type="tns:ArrayOfSupplier" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PlaceOrderWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="supplierId" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="staffType" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="supplierItemId" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="quantity" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PlaceOrderWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="PlaceOrderWebResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSupplierOrdersWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="supplierId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSupplierOrdersWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetSupplierOrdersWebResult" type="tns:ArrayOfOrder" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfOrder">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Order" nillable="true" type="tns:Order" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Order">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="OrderId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="SupplierId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="SupplierItemId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="StaffType" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="OrderStatus" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Quantity" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="UnitPrice" nillable="true" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="ItemName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SupplierName" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UpdateOrderPriceWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="orderId" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="unitPrice" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateOrderPriceWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpdateOrderPriceWebResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConfirmOrderWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="orderId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConfirmOrderWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ConfirmOrderWebResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetInventoryItemsWeb">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetInventoryItemsWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetInventoryItemsWebResult" type="tns:ArrayOfInventory" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfInventory">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Inventory" nillable="true" type="tns:Inventory" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Inventory">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="InventoryId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="SupplierName" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="SupItemId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Item" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Quantity" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetPlantInventoryWeb">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetPlantInventoryWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPlantInventoryWebResult" type="tns:ArrayOfInventory" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetWarehouseInventoryWeb">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetWarehouseInventoryWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetWarehouseInventoryWebResult" type="tns:ArrayOfInventory" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateInventoryWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="supplierItemId" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="quantity" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateInventoryWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpdateInventoryWebResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSupplierItemWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="supplierId" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="itemName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSupplierItemWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertSupplierItemWebResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSPCOnlySupplierItemsWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="supplierId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSPCOnlySupplierItemsWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetSPCOnlySupplierItemsWebResult" type="tns:ArrayOfSupplierItem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfSupplierItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="SupplierItem" nillable="true" type="tns:SupplierItem" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SupplierItem">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="SupplierItemId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="SupplierId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ItemName" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetNonSPCSupplierItemsWeb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="supplierId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetNonSPCSupplierItemsWebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetNonSPCSupplierItemsWebResult" type="tns:ArrayOfSupplierItem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSPCPricedOrders">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetSPCPricedOrdersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetSPCPricedOrdersResult" type="tns:ArrayOfOrder" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetNonSPCPricedOrders">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetNonSPCPricedOrdersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetNonSPCPricedOrdersResult" type="tns:ArrayOfOrder" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConfirmOrderByStaff">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="orderId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConfirmOrderByStaffResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ConfirmOrderByStaffResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="InsertSupplierWebSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertSupplierWeb" />
+  </wsdl:message>
+  <wsdl:message name="InsertSupplierWebSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertSupplierWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="LoginSupplierWebSoapIn">
+    <wsdl:part name="parameters" element="tns:LoginSupplierWeb" />
+  </wsdl:message>
+  <wsdl:message name="LoginSupplierWebSoapOut">
+    <wsdl:part name="parameters" element="tns:LoginSupplierWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetSPCSuppliersWebSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSPCSuppliersWeb" />
+  </wsdl:message>
+  <wsdl:message name="GetSPCSuppliersWebSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSPCSuppliersWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetNonSPCSuppliersWebSoapIn">
+    <wsdl:part name="parameters" element="tns:GetNonSPCSuppliersWeb" />
+  </wsdl:message>
+  <wsdl:message name="GetNonSPCSuppliersWebSoapOut">
+    <wsdl:part name="parameters" element="tns:GetNonSPCSuppliersWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="PlaceOrderWebSoapIn">
+    <wsdl:part name="parameters" element="tns:PlaceOrderWeb" />
+  </wsdl:message>
+  <wsdl:message name="PlaceOrderWebSoapOut">
+    <wsdl:part name="parameters" element="tns:PlaceOrderWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetSupplierOrdersWebSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSupplierOrdersWeb" />
+  </wsdl:message>
+  <wsdl:message name="GetSupplierOrdersWebSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSupplierOrdersWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateOrderPriceWebSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateOrderPriceWeb" />
+  </wsdl:message>
+  <wsdl:message name="UpdateOrderPriceWebSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateOrderPriceWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConfirmOrderWebSoapIn">
+    <wsdl:part name="parameters" element="tns:ConfirmOrderWeb" />
+  </wsdl:message>
+  <wsdl:message name="ConfirmOrderWebSoapOut">
+    <wsdl:part name="parameters" element="tns:ConfirmOrderWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetInventoryItemsWebSoapIn">
+    <wsdl:part name="parameters" element="tns:GetInventoryItemsWeb" />
+  </wsdl:message>
+  <wsdl:message name="GetInventoryItemsWebSoapOut">
+    <wsdl:part name="parameters" element="tns:GetInventoryItemsWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPlantInventoryWebSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPlantInventoryWeb" />
+  </wsdl:message>
+  <wsdl:message name="GetPlantInventoryWebSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPlantInventoryWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetWarehouseInventoryWebSoapIn">
+    <wsdl:part name="parameters" element="tns:GetWarehouseInventoryWeb" />
+  </wsdl:message>
+  <wsdl:message name="GetWarehouseInventoryWebSoapOut">
+    <wsdl:part name="parameters" element="tns:GetWarehouseInventoryWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateInventoryWebSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateInventoryWeb" />
+  </wsdl:message>
+  <wsdl:message name="UpdateInventoryWebSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateInventoryWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertSupplierItemWebSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertSupplierItemWeb" />
+  </wsdl:message>
+  <wsdl:message name="InsertSupplierItemWebSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertSupplierItemWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetSPCOnlySupplierItemsWebSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSPCOnlySupplierItemsWeb" />
+  </wsdl:message>
+  <wsdl:message name="GetSPCOnlySupplierItemsWebSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSPCOnlySupplierItemsWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetNonSPCSupplierItemsWebSoapIn">
+    <wsdl:part name="parameters" element="tns:GetNonSPCSupplierItemsWeb" />
+  </wsdl:message>
+  <wsdl:message name="GetNonSPCSupplierItemsWebSoapOut">
+    <wsdl:part name="parameters" element="tns:GetNonSPCSupplierItemsWebResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetSPCPricedOrdersSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSPCPricedOrders" />
+  </wsdl:message>
+  <wsdl:message name="GetSPCPricedOrdersSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSPCPricedOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetNonSPCPricedOrdersSoapIn">
+    <wsdl:part name="parameters" element="tns:GetNonSPCPricedOrders" />
+  </wsdl:message>
+  <wsdl:message name="GetNonSPCPricedOrdersSoapOut">
+    <wsdl:part name="parameters" element="tns:GetNonSPCPricedOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConfirmOrderByStaffSoapIn">
+    <wsdl:part name="parameters" element="tns:ConfirmOrderByStaff" />
+  </wsdl:message>
+  <wsdl:message name="ConfirmOrderByStaffSoapOut">
+    <wsdl:part name="parameters" element="tns:ConfirmOrderByStaffResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SupplierManagementWebServiceSoap">
+    <wsdl:operation name="InsertSupplierWeb">
+      <wsdl:input message="tns:InsertSupplierWebSoapIn" />
+      <wsdl:output message="tns:InsertSupplierWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LoginSupplierWeb">
+      <wsdl:input message="tns:LoginSupplierWebSoapIn" />
+      <wsdl:output message="tns:LoginSupplierWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSPCSuppliersWeb">
+      <wsdl:input message="tns:GetSPCSuppliersWebSoapIn" />
+      <wsdl:output message="tns:GetSPCSuppliersWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNonSPCSuppliersWeb">
+      <wsdl:input message="tns:GetNonSPCSuppliersWebSoapIn" />
+      <wsdl:output message="tns:GetNonSPCSuppliersWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="PlaceOrderWeb">
+      <wsdl:input message="tns:PlaceOrderWebSoapIn" />
+      <wsdl:output message="tns:PlaceOrderWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSupplierOrdersWeb">
+      <wsdl:input message="tns:GetSupplierOrdersWebSoapIn" />
+      <wsdl:output message="tns:GetSupplierOrdersWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOrderPriceWeb">
+      <wsdl:input message="tns:UpdateOrderPriceWebSoapIn" />
+      <wsdl:output message="tns:UpdateOrderPriceWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConfirmOrderWeb">
+      <wsdl:input message="tns:ConfirmOrderWebSoapIn" />
+      <wsdl:output message="tns:ConfirmOrderWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetInventoryItemsWeb">
+      <wsdl:input message="tns:GetInventoryItemsWebSoapIn" />
+      <wsdl:output message="tns:GetInventoryItemsWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPlantInventoryWeb">
+      <wsdl:input message="tns:GetPlantInventoryWebSoapIn" />
+      <wsdl:output message="tns:GetPlantInventoryWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetWarehouseInventoryWeb">
+      <wsdl:input message="tns:GetWarehouseInventoryWebSoapIn" />
+      <wsdl:output message="tns:GetWarehouseInventoryWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateInventoryWeb">
+      <wsdl:input message="tns:UpdateInventoryWebSoapIn" />
+      <wsdl:output message="tns:UpdateInventoryWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertSupplierItemWeb">
+      <wsdl:input message="tns:InsertSupplierItemWebSoapIn" />
+      <wsdl:output message="tns:InsertSupplierItemWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSPCOnlySupplierItemsWeb">
+      <wsdl:input message="tns:GetSPCOnlySupplierItemsWebSoapIn" />
+      <wsdl:output message="tns:GetSPCOnlySupplierItemsWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNonSPCSupplierItemsWeb">
+      <wsdl:input message="tns:GetNonSPCSupplierItemsWebSoapIn" />
+      <wsdl:output message="tns:GetNonSPCSupplierItemsWebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSPCPricedOrders">
+      <wsdl:input message="tns:GetSPCPricedOrdersSoapIn" />
+      <wsdl:output message="tns:GetSPCPricedOrdersSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNonSPCPricedOrders">
+      <wsdl:input message="tns:GetNonSPCPricedOrdersSoapIn" />
+      <wsdl:output message="tns:GetNonSPCPricedOrdersSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConfirmOrderByStaff">
+      <wsdl:input message="tns:ConfirmOrderByStaffSoapIn" />
+      <wsdl:output message="tns:ConfirmOrderByStaffSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SupplierManagementWebServiceSoap" type="tns:SupplierManagementWebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertSupplierWeb">
+      <soap:operation soapAction="http://tempuri.org/InsertSupplierWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoginSupplierWeb">
+      <soap:operation soapAction="http://tempuri.org/LoginSupplierWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSPCSuppliersWeb">
+      <soap:operation soapAction="http://tempuri.org/GetSPCSuppliersWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNonSPCSuppliersWeb">
+      <soap:operation soapAction="http://tempuri.org/GetNonSPCSuppliersWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PlaceOrderWeb">
+      <soap:operation soapAction="http://tempuri.org/PlaceOrderWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSupplierOrdersWeb">
+      <soap:operation soapAction="http://tempuri.org/GetSupplierOrdersWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOrderPriceWeb">
+      <soap:operation soapAction="http://tempuri.org/UpdateOrderPriceWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConfirmOrderWeb">
+      <soap:operation soapAction="http://tempuri.org/ConfirmOrderWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInventoryItemsWeb">
+      <soap:operation soapAction="http://tempuri.org/GetInventoryItemsWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPlantInventoryWeb">
+      <soap:operation soapAction="http://tempuri.org/GetPlantInventoryWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetWarehouseInventoryWeb">
+      <soap:operation soapAction="http://tempuri.org/GetWarehouseInventoryWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateInventoryWeb">
+      <soap:operation soapAction="http://tempuri.org/UpdateInventoryWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSupplierItemWeb">
+      <soap:operation soapAction="http://tempuri.org/InsertSupplierItemWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSPCOnlySupplierItemsWeb">
+      <soap:operation soapAction="http://tempuri.org/GetSPCOnlySupplierItemsWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNonSPCSupplierItemsWeb">
+      <soap:operation soapAction="http://tempuri.org/GetNonSPCSupplierItemsWeb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSPCPricedOrders">
+      <soap:operation soapAction="http://tempuri.org/GetSPCPricedOrders" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNonSPCPricedOrders">
+      <soap:operation soapAction="http://tempuri.org/GetNonSPCPricedOrders" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConfirmOrderByStaff">
+      <soap:operation soapAction="http://tempuri.org/ConfirmOrderByStaff" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SupplierManagementWebServiceSoap12" type="tns:SupplierManagementWebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertSupplierWeb">
+      <soap12:operation soapAction="http://tempuri.org/InsertSupplierWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoginSupplierWeb">
+      <soap12:operation soapAction="http://tempuri.org/LoginSupplierWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSPCSuppliersWeb">
+      <soap12:operation soapAction="http://tempuri.org/GetSPCSuppliersWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNonSPCSuppliersWeb">
+      <soap12:operation soapAction="http://tempuri.org/GetNonSPCSuppliersWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PlaceOrderWeb">
+      <soap12:operation soapAction="http://tempuri.org/PlaceOrderWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSupplierOrdersWeb">
+      <soap12:operation soapAction="http://tempuri.org/GetSupplierOrdersWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOrderPriceWeb">
+      <soap12:operation soapAction="http://tempuri.org/UpdateOrderPriceWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConfirmOrderWeb">
+      <soap12:operation soapAction="http://tempuri.org/ConfirmOrderWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInventoryItemsWeb">
+      <soap12:operation soapAction="http://tempuri.org/GetInventoryItemsWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPlantInventoryWeb">
+      <soap12:operation soapAction="http://tempuri.org/GetPlantInventoryWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetWarehouseInventoryWeb">
+      <soap12:operation soapAction="http://tempuri.org/GetWarehouseInventoryWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateInventoryWeb">
+      <soap12:operation soapAction="http://tempuri.org/UpdateInventoryWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSupplierItemWeb">
+      <soap12:operation soapAction="http://tempuri.org/InsertSupplierItemWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSPCOnlySupplierItemsWeb">
+      <soap12:operation soapAction="http://tempuri.org/GetSPCOnlySupplierItemsWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNonSPCSupplierItemsWeb">
+      <soap12:operation soapAction="http://tempuri.org/GetNonSPCSupplierItemsWeb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSPCPricedOrders">
+      <soap12:operation soapAction="http://tempuri.org/GetSPCPricedOrders" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNonSPCPricedOrders">
+      <soap12:operation soapAction="http://tempuri.org/GetNonSPCPricedOrders" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConfirmOrderByStaff">
+      <soap12:operation soapAction="http://tempuri.org/ConfirmOrderByStaff" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SupplierManagementWebService">
+    <wsdl:port name="SupplierManagementWebServiceSoap" binding="tns:SupplierManagementWebServiceSoap">
+      <soap:address location="https://localhost:44325/SupplierManagementWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SupplierManagementWebServiceSoap12" binding="tns:SupplierManagementWebServiceSoap12">
+      <soap12:address location="https://localhost:44325/SupplierManagementWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

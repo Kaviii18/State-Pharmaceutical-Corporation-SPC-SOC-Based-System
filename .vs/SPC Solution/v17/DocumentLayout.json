@@ -1,0 +1,1084 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kavindu_SOC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehousestafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehousestafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehousestafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehousestafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehousestaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehousestaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehousestaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehousestaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehouseorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehouseorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehouseorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehouseorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehouseorderconfirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehouseorderconfirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehouseorderconfirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehouseorderconfirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantaddsupplieritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantaddsupplieritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantaddsupplieritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantaddsupplieritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\supplierregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\supplierregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\supplierregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\supplierregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\supplierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\supplierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\supplierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\supplierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\supplierloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\supplierloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|c:\\kavindu_soc1\\clientapp\\supplierloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\supplierloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantorderconfirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantorderconfirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantstaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantstaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehouseaddsupplieritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehouseaddsupplieritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantstaffloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantstaffloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantaddsupplieritems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantaddsupplieritems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\data\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\data\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehouseorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehouseorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehouseaddsupplieritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehouseaddsupplieritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehouseaddsupplieritems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehouseaddsupplieritems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantstaffloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantstaffloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantstaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantstaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantstaffdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantstaffdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehousestaffdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehousestaffdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantorderconfirmform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantorderconfirmform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantorderconfirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantorderconfirmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantstaffdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantstaffdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\splashscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\splashscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantorderform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantorderform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantstaffloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantstaffloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehousestafflogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehousestafflogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\warehouseorderconfirmform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\warehouseorderconfirmform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\supplierregistrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\supplierregistrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\supplierorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\supplierorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\supplierloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\supplierloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|C:\\Kavindu_SOC1\\clientapp\\plantaddsupplieritems.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4641823C-4130-4C87-A4AB-3E4187379818}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\plantaddsupplieritems.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\migrations\\202506190551274_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\migrations\\202506190551274_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\controllers\\supplieritemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\controllers\\supplieritemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\suppliermanagementwebservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\suppliermanagementwebservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\models\\supplieritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\models\\supplieritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|C:\\Kavindu_SOC1\\suppliermanagemenet\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52996D6C-726A-4C08-AB74-BCD2DBE31E32}|SupplierManagemenet\\SupplierManagemenet.csproj|solutionrelative:suppliermanagemenet\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WarehouseStaffDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffDashboard.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseStaffDashboard.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffDashboard.cs [Design]",
+              "RelativeToolTip": "ClientApp\\WarehouseStaffDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:58:55.207Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarehouseStaffDashboard.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffDashboard.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseStaffDashboard.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffDashboard.cs",
+              "RelativeToolTip": "ClientApp\\WarehouseStaffDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:59:44.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarehouseStaffLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffLogin.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseStaffLogin.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffLogin.cs [Design]",
+              "RelativeToolTip": "ClientApp\\WarehouseStaffLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:28:40.227Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarehouseStaffLogin.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffLogin.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseStaffLogin.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffLogin.cs",
+              "RelativeToolTip": "ClientApp\\WarehouseStaffLogin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:11:34.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Web.config",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Web.config",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Web.config",
+              "RelativeToolTip": "SupplierManagemenet\\Web.config",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-20T03:49:22.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarehouseOrderForm.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseOrderForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderForm.cs",
+              "RelativeToolTip": "ClientApp\\WarehouseOrderForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:57:29.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WarehouseOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseOrderForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\WarehouseOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:56:19.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WarehouseOrderConfirmForm.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderConfirmForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseOrderConfirmForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderConfirmForm.cs",
+              "RelativeToolTip": "ClientApp\\WarehouseOrderConfirmForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:54:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WarehouseOrderConfirmForm.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderConfirmForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseOrderConfirmForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderConfirmForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\WarehouseOrderConfirmForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:53:16.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlantAddSupplierItems.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantAddSupplierItems.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantAddSupplierItems.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantAddSupplierItems.cs",
+              "RelativeToolTip": "ClientApp\\PlantAddSupplierItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:03:07.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlantAddSupplierItems.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantAddSupplierItems.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantAddSupplierItems.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantAddSupplierItems.cs [Design]",
+              "RelativeToolTip": "ClientApp\\PlantAddSupplierItems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:01:55.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SupplierRegistrationForm.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SupplierRegistrationForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SupplierRegistrationForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SupplierRegistrationForm.cs",
+              "RelativeToolTip": "ClientApp\\SupplierRegistrationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:35:06.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierRegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SupplierRegistrationForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SupplierRegistrationForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SupplierRegistrationForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\SupplierRegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:15:13.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SupplierOrderForm.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SupplierOrderForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SupplierOrderForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SupplierOrderForm.cs",
+              "RelativeToolTip": "ClientApp\\SupplierOrderForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:47:58.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupplierOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SupplierOrderForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SupplierOrderForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SupplierOrderForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\SupplierOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:43:40.607Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SupplierLoginForm.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SupplierLoginForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SupplierLoginForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SupplierLoginForm.cs",
+              "RelativeToolTip": "ClientApp\\SupplierLoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:42:51.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SupplierLoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SupplierLoginForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SupplierLoginForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SupplierLoginForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\SupplierLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:42:43.792Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlantOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantOrderForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\PlantOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:06:59.436Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlantOrderConfirmForm.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderConfirmForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantOrderConfirmForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderConfirmForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\PlantOrderConfirmForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:04:11.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Form1.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\Form1.cs",
+              "RelativeToolTip": "ClientApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:41:07.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\Form1.Designer.cs",
+              "RelativeToolTip": "ClientApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:12:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Form1.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\Form1.cs [Design]",
+              "RelativeToolTip": "ClientApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:41:05.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlantStaffDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffDashboard.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantStaffDashboard.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffDashboard.cs [Design]",
+              "RelativeToolTip": "ClientApp\\PlantStaffDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:08:54.774Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WarehouseAddSupplierItems.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseAddSupplierItems.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseAddSupplierItems.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseAddSupplierItems.cs [Design]",
+              "RelativeToolTip": "ClientApp\\WarehouseAddSupplierItems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:47:02.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SplashScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SplashScreen.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SplashScreen.cs [Design]",
+              "RelativeToolTip": "ClientApp\\SplashScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T11:57:20.766Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlantStaffLoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffLoginForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantStaffLoginForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffLoginForm.cs [Design]",
+              "RelativeToolTip": "ClientApp\\PlantStaffLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:10:23.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlantAddSupplierItems.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantAddSupplierItems.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantAddSupplierItems.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantAddSupplierItems.Designer.cs",
+              "RelativeToolTip": "ClientApp\\PlantAddSupplierItems.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:56:59.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Data\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Data\\DataAccessLayer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Data\\DataAccessLayer.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Data\\DataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T03:31:36.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\Form1.resx",
+              "RelativeDocumentMoniker": "ClientApp\\Form1.resx",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\Form1.resx",
+              "RelativeToolTip": "ClientApp\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-19T11:38:00.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WarehouseOrderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseOrderForm.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderForm.Designer.cs",
+              "RelativeToolTip": "ClientApp\\WarehouseOrderForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:23:10.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WarehouseAddSupplierItems.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseAddSupplierItems.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseAddSupplierItems.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseAddSupplierItems.cs",
+              "RelativeToolTip": "ClientApp\\WarehouseAddSupplierItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:47:17.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WarehouseAddSupplierItems.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseAddSupplierItems.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseAddSupplierItems.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseAddSupplierItems.Designer.cs",
+              "RelativeToolTip": "ClientApp\\WarehouseAddSupplierItems.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:47:21.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlantStaffLoginForm.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffLoginForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantStaffLoginForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffLoginForm.cs",
+              "RelativeToolTip": "ClientApp\\PlantStaffLoginForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:10:25.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlantStaffDashboard.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffDashboard.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantStaffDashboard.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffDashboard.cs",
+              "RelativeToolTip": "ClientApp\\PlantStaffDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:09:23.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PlantOrderForm.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantOrderForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderForm.cs",
+              "RelativeToolTip": "ClientApp\\PlantOrderForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:07:54.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PlantStaffDashboard.resx",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffDashboard.resx",
+              "RelativeDocumentMoniker": "ClientApp\\PlantStaffDashboard.resx",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffDashboard.resx",
+              "RelativeToolTip": "ClientApp\\PlantStaffDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-21T10:24:48.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "WarehouseStaffDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseStaffDashboard.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffDashboard.Designer.cs",
+              "RelativeToolTip": "ClientApp\\WarehouseStaffDashboard.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwHYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:25:56.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Models\\Supplier.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T03:37:34.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:04:48.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:03:05.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:31:59.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PlantOrderConfirmForm.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderConfirmForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantOrderConfirmForm.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderConfirmForm.Designer.cs",
+              "RelativeToolTip": "ClientApp\\PlantOrderConfirmForm.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:31:03.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PlantOrderConfirmForm.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderConfirmForm.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantOrderConfirmForm.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderConfirmForm.cs",
+              "RelativeToolTip": "ClientApp\\PlantOrderConfirmForm.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:05:37.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:02:32.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PlantStaffDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantStaffDashboard.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffDashboard.Designer.cs",
+              "RelativeToolTip": "ClientApp\\PlantStaffDashboard.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:36:22.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SplashScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SplashScreen.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SplashScreen.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SplashScreen.Designer.cs",
+              "RelativeToolTip": "ClientApp\\SplashScreen.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T11:57:28.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SplashScreen.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SplashScreen.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SplashScreen.cs",
+              "RelativeToolTip": "ClientApp\\SplashScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:12:47.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PlantOrderForm.resx",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderForm.resx",
+              "RelativeDocumentMoniker": "ClientApp\\PlantOrderForm.resx",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderForm.resx",
+              "RelativeToolTip": "ClientApp\\PlantOrderForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-19T11:39:12.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PlantOrderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantOrderForm.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantOrderForm.Designer.cs",
+              "RelativeToolTip": "ClientApp\\PlantOrderForm.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:33:15.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PlantStaffLoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffLoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\PlantStaffLoginForm.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantStaffLoginForm.Designer.cs",
+              "RelativeToolTip": "ClientApp\\PlantStaffLoginForm.Designer.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAkwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:46:32.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "WarehouseStaffLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffLogin.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseStaffLogin.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseStaffLogin.Designer.cs",
+              "RelativeToolTip": "ClientApp\\WarehouseStaffLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:28:44.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WarehouseOrderConfirmForm.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderConfirmForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\WarehouseOrderConfirmForm.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\WarehouseOrderConfirmForm.Designer.cs",
+              "RelativeToolTip": "ClientApp\\WarehouseOrderConfirmForm.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:20:39.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SupplierRegistrationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SupplierRegistrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SupplierRegistrationForm.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SupplierRegistrationForm.Designer.cs",
+              "RelativeToolTip": "ClientApp\\SupplierRegistrationForm.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:15:15.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SupplierOrderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SupplierOrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SupplierOrderForm.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SupplierOrderForm.Designer.cs",
+              "RelativeToolTip": "ClientApp\\SupplierOrderForm.Designer.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:08:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SupplierLoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\SupplierLoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\SupplierLoginForm.Designer.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\SupplierLoginForm.Designer.cs",
+              "RelativeToolTip": "ClientApp\\SupplierLoginForm.Designer.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:03:15.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PlantAddSupplierItems.resx",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\ClientApp\\PlantAddSupplierItems.resx",
+              "RelativeDocumentMoniker": "ClientApp\\PlantAddSupplierItems.resx",
+              "ToolTip": "C:\\Kavindu_SOC1\\ClientApp\\PlantAddSupplierItems.resx",
+              "RelativeToolTip": "ClientApp\\PlantAddSupplierItems.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-19T07:08:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "202506190551274_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Migrations\\202506190551274_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Migrations\\202506190551274_InitialCreate.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Migrations\\202506190551274_InitialCreate.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Migrations\\202506190551274_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:51:40.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:51:08.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SupplierItemController.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Controllers\\SupplierItemController.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Controllers\\SupplierItemController.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Controllers\\SupplierItemController.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Controllers\\SupplierItemController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:05:45.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Models\\Order.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Models\\Order.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Models\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T03:37:08.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SupplierItem.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Models\\SupplierItem.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Models\\SupplierItem.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Models\\SupplierItem.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Models\\SupplierItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T03:37:40.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\Models\\Inventory.cs",
+              "RelativeToolTip": "SupplierManagemenet\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:22:46.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\packages.config",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\packages.config",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\packages.config",
+              "RelativeToolTip": "SupplierManagemenet\\packages.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-19T05:01:49.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SupplierManagementWebService.asmx.cs",
+              "DocumentMoniker": "C:\\Kavindu_SOC1\\SupplierManagemenet\\SupplierManagementWebService.asmx.cs",
+              "RelativeDocumentMoniker": "SupplierManagemenet\\SupplierManagementWebService.asmx.cs",
+              "ToolTip": "C:\\Kavindu_SOC1\\SupplierManagemenet\\SupplierManagementWebService.asmx.cs",
+              "RelativeToolTip": "SupplierManagemenet\\SupplierManagementWebService.asmx.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:33:07.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
